@@ -1,0 +1,159 @@
+2026-09-23 00:18:50,986 - INFO - Loading configuration
+2026-09-23 00:18:50,999 - INFO - Starting browser
+2026-09-23 00:18:52,627 - INFO - Browser started successfully
+2026-09-23 00:18:52,631 - INFO - Starting login test
+2026-09-23 00:18:52,637 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-23 00:18:53,770 - INFO - Opening My Account menu
+2026-09-23 00:18:53,896 - INFO - Opening Login page
+2026-09-23 00:18:54,284 - INFO - Entering login credentials
+2026-09-23 00:18:56,436 - INFO - Checking login result
+2026-09-23 00:18:56,449 - INFO - Login test completed successfully
+2026-09-23 00:18:56,451 - INFO - Closing browser
+2026-09-23 00:18:58,813 - INFO - Loading configuration
+2026-09-23 00:18:58,814 - INFO - Starting browser
+2026-09-23 00:19:00,233 - INFO - Browser started successfully
+2026-09-23 00:19:00,235 - INFO - Starting product search test
+2026-09-23 00:19:00,236 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-23 00:19:02,100 - INFO - Checking search result
+2026-09-23 00:19:02,100 - INFO - Checking product: MacBook
+2026-09-23 00:19:02,107 - INFO - Product search test completed successfully
+2026-09-23 00:19:07,108 - INFO - Closing browser
+2026-09-23 00:38:42,515 - INFO - Loading configuration
+2026-09-23 00:38:42,518 - INFO - Starting browser
+2026-09-23 00:38:45,873 - INFO - Browser started successfully
+2026-09-23 00:38:45,874 - INFO - Starting login test
+2026-09-23 00:38:45,875 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-23 00:38:46,699 - INFO - Opening My Account menu
+2026-09-23 00:38:46,798 - INFO - Opening Login page
+2026-09-23 00:38:47,078 - INFO - Entering login credentials
+2026-09-23 00:38:47,532 - INFO - Checking login result
+2026-09-23 00:38:48,361 - INFO - Login test completed successfully
+2026-09-23 00:38:48,362 - INFO - Closing browser
+2026-09-23 00:38:50,630 - INFO - Loading configuration
+2026-09-23 00:38:50,634 - INFO - Starting browser
+2026-09-23 00:38:52,124 - INFO - Browser started successfully
+2026-09-23 00:38:52,128 - INFO - Starting product search test
+2026-09-23 00:38:52,129 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-23 00:38:53,476 - INFO - Checking search result
+2026-09-23 00:38:53,476 - INFO - Checking product: MacBook
+2026-09-23 00:38:53,484 - INFO - Product search test completed successfully
+2026-09-23 00:38:58,486 - INFO - Closing browser
+2026-09-23 00:42:47,660 - INFO - Loading configuration
+2026-09-23 00:42:47,662 - INFO - Starting browser
+2026-09-23 00:42:49,100 - INFO - Browser started successfully
+2026-09-23 00:42:49,102 - INFO - Starting login test
+2026-09-23 00:42:49,103 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-23 00:42:50,097 - INFO - Opening My Account menu
+2026-09-23 00:42:50,197 - INFO - Opening Login page
+2026-09-23 00:42:50,488 - INFO - Entering login credentials
+2026-09-23 00:42:50,878 - INFO - Checking login result
+2026-09-23 00:42:50,883 - INFO - Login test completed successfully
+2026-09-23 00:42:50,885 - INFO - Closing browser
+2026-09-23 00:42:53,104 - INFO - Loading configuration
+2026-09-23 00:42:53,106 - INFO - Starting browser
+2026-09-23 00:42:54,551 - INFO - Browser started successfully
+2026-09-23 00:42:54,553 - INFO - Starting product search test
+2026-09-23 00:42:54,553 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-23 00:42:55,964 - INFO - Checking search result
+2026-09-23 00:42:55,964 - INFO - Checking product: MacBook
+2026-09-23 00:42:55,973 - INFO - Product search test completed successfully
+2026-09-23 00:43:00,974 - INFO - Closing browser
+2026-09-23 00:43:03,250 - INFO - Loading configuration
+2026-09-23 00:43:03,252 - INFO - Starting browser
+2026-09-23 00:43:04,641 - INFO - Browser started successfully
+2026-09-23 00:43:04,644 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-23 00:43:05,491 - INFO - Opening My Account menu
+2026-09-23 00:43:05,582 - INFO - Opening Login page
+2026-09-23 00:43:16,454 - WARNING - AdaptiveQA: Primary locator failed: ('id', 'this-id-does-not-exist')
+2026-09-23 00:43:16,454 - WARNING - AdaptiveQA: Trying fallback locator: ('id', 'input-email')
+2026-09-23 00:43:16,474 - WARNING - AdaptiveQA: SELF-HEAL SUCCESS | Original: ('id', 'this-id-does-not-exist') | Recovered: ('id', 'input-email')
+2026-09-23 00:43:16,597 - INFO - Closing browser
+2026-09-23 00:57:52,048 - INFO - Loading configuration
+2026-09-23 00:57:52,050 - INFO - Starting browser
+2026-09-23 00:57:52,914 - INFO - Browser started successfully
+2026-09-23 00:57:52,917 - INFO - Starting login test
+2026-09-23 00:57:52,918 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-23 00:57:53,888 - INFO - Opening My Account menu
+2026-09-23 00:57:53,912 - INFO - AdaptiveQA: Locator STABLE | ('xpath', "//span[text()='My Account']")
+2026-09-23 00:57:53,981 - INFO - Opening Login page
+2026-09-23 00:57:54,006 - INFO - AdaptiveQA: Locator STABLE | ('link text', 'Login')
+2026-09-23 00:57:54,264 - INFO - Entering login credentials
+2026-09-23 00:57:54,289 - INFO - AdaptiveQA: Locator STABLE | ('id', 'input-email')
+2026-09-23 00:57:54,476 - INFO - AdaptiveQA: Locator STABLE | ('id', 'input-password')
+2026-09-23 00:57:54,606 - INFO - AdaptiveQA: Locator STABLE | ('css selector', "input[type='submit']")
+2026-09-23 00:57:54,673 - INFO - Checking login result
+2026-09-23 00:57:56,329 - INFO - Login test completed successfully
+2026-09-23 00:57:56,330 - INFO - Closing browser
+2026-09-23 00:57:58,580 - INFO - Loading configuration
+2026-09-23 00:57:58,583 - INFO - Starting browser
+2026-09-23 00:58:00,018 - INFO - Browser started successfully
+2026-09-23 00:58:00,021 - INFO - Starting product search test
+2026-09-23 00:58:00,022 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-23 00:58:00,975 - INFO - AdaptiveQA: Locator STABLE | ('name', 'search')
+2026-09-23 00:58:01,092 - INFO - AdaptiveQA: Locator STABLE | ('css selector', 'button.btn.btn-default')
+2026-09-23 00:58:01,420 - INFO - Checking search result
+2026-09-23 00:58:01,421 - INFO - Checking product: MacBook
+2026-09-23 00:58:01,428 - INFO - Product search test completed successfully
+2026-09-23 00:58:06,429 - INFO - Closing browser
+2026-09-23 00:58:08,856 - INFO - Loading configuration
+2026-09-23 00:58:08,858 - INFO - Starting browser
+2026-09-23 00:58:10,321 - INFO - Browser started successfully
+2026-09-23 00:58:10,325 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-23 00:58:11,169 - INFO - Opening My Account menu
+2026-09-23 00:58:11,195 - INFO - AdaptiveQA: Locator STABLE | ('xpath', "//span[text()='My Account']")
+2026-09-23 00:58:11,276 - INFO - Opening Login page
+2026-09-23 00:58:11,298 - INFO - AdaptiveQA: Locator STABLE | ('link text', 'Login')
+2026-09-23 00:58:22,107 - WARNING - AdaptiveQA: Primary locator failed: ('id', 'this-id-does-not-exist')
+2026-09-23 00:58:22,108 - WARNING - AdaptiveQA: Trying fallback locator: ('id', 'input-email')
+2026-09-23 00:58:22,126 - WARNING - AdaptiveQA: SELF-HEAL SUCCESS | Original: ('id', 'this-id-does-not-exist') | Recovered: ('id', 'input-email') | Attempts: 1
+2026-09-23 00:58:22,266 - INFO - Closing browser
+2026-09-23 01:06:18,135 - INFO - Loading configuration
+2026-09-23 01:06:18,137 - INFO - Starting browser
+2026-09-23 01:06:19,389 - INFO - Browser started successfully
+2026-09-23 01:06:19,391 - INFO - Starting login test
+2026-09-23 01:06:19,395 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-23 01:06:49,705 - ERROR - Could not add AdaptiveQA HTML: name 'pytest_html' is not defined
+2026-09-23 01:06:49,906 - ERROR - AdaptiveQA screenshot failed: name 'pytest_html' is not defined
+2026-09-23 01:06:49,907 - INFO - Closing browser
+2026-09-23 01:06:52,201 - INFO - Loading configuration
+2026-09-23 01:06:52,204 - INFO - Starting browser
+2026-09-23 01:06:53,826 - INFO - Browser started successfully
+2026-09-23 01:06:53,828 - INFO - Starting login test
+2026-09-23 01:06:53,830 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-23 01:07:08,927 - INFO - Opening My Account menu
+2026-09-23 01:07:08,963 - INFO - AdaptiveQA: Locator STABLE | ('xpath', "//span[text()='My Account']")
+2026-09-23 01:07:09,055 - INFO - Opening Login page
+2026-09-23 01:07:09,093 - INFO - AdaptiveQA: Locator STABLE | ('link text', 'Login')
+2026-09-23 01:07:09,370 - INFO - Entering login credentials
+2026-09-23 01:07:09,397 - INFO - AdaptiveQA: Locator STABLE | ('id', 'input-email')
+2026-09-23 01:07:09,582 - INFO - AdaptiveQA: Locator STABLE | ('id', 'input-password')
+2026-09-23 01:07:09,717 - INFO - AdaptiveQA: Locator STABLE | ('css selector', "input[type='submit']")
+2026-09-23 01:07:09,782 - INFO - Checking login result
+2026-09-23 01:07:10,834 - INFO - Login test completed successfully
+2026-09-23 01:07:10,834 - ERROR - Could not add AdaptiveQA HTML: name 'pytest_html' is not defined
+2026-09-23 01:07:10,835 - INFO - Closing browser
+2026-09-23 01:07:13,157 - INFO - Loading configuration
+2026-09-23 01:07:13,158 - INFO - Starting browser
+2026-09-23 01:07:14,597 - INFO - Browser started successfully
+2026-09-23 01:07:14,599 - INFO - Starting product search test
+2026-09-23 01:07:14,599 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-23 01:07:35,791 - INFO - AdaptiveQA: Locator STABLE | ('name', 'search')
+2026-09-23 01:07:35,929 - INFO - AdaptiveQA: Locator STABLE | ('css selector', 'button.btn.btn-default')
+2026-09-23 01:07:37,716 - INFO - Checking search result
+2026-09-23 01:07:37,716 - INFO - Checking product: MacBook
+2026-09-23 01:07:37,725 - INFO - Product search test completed successfully
+2026-09-23 01:07:42,726 - ERROR - Could not add AdaptiveQA HTML: name 'pytest_html' is not defined
+2026-09-23 01:07:42,727 - INFO - Closing browser
+2026-09-23 01:07:45,105 - INFO - Loading configuration
+2026-09-23 01:07:45,106 - INFO - Starting browser
+2026-09-23 01:07:46,527 - INFO - Browser started successfully
+2026-09-23 01:07:46,530 - INFO - Opening TutorialsNinja: https://tutorialsninja.com/demo/
+2026-09-23 01:07:47,472 - INFO - Opening My Account menu
+2026-09-23 01:07:47,497 - INFO - AdaptiveQA: Locator STABLE | ('xpath', "//span[text()='My Account']")
+2026-09-23 01:07:47,576 - INFO - Opening Login page
+2026-09-23 01:07:47,598 - INFO - AdaptiveQA: Locator STABLE | ('link text', 'Login')
+2026-09-23 01:07:58,454 - WARNING - AdaptiveQA: Primary locator failed | ('id', 'this-id-does-not-exist')
+2026-09-23 01:07:58,454 - WARNING - AdaptiveQA: Trying fallback locator 1 | ('id', 'input-email')
+2026-09-23 01:07:58,474 - WARNING - AdaptiveQA: SELF-HEAL SUCCESS | Original: ('id', 'this-id-does-not-exist') | Recovered: ('id', 'input-email') | Attempts: 1
+2026-09-23 01:07:58,595 - ERROR - Could not add AdaptiveQA HTML: name 'pytest_html' is not defined
+2026-09-23 01:07:58,595 - INFO - Closing browser

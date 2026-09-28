@@ -1,0 +1,6 @@
+selenium
+pytest
+pyyaml
+pytest-html
+pytest-rerunfailures
+requests

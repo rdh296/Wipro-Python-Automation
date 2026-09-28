@@ -1,0 +1,9 @@
+app:
+  name: tutorials_ninja
+  url: https://tutorialsninja.com/demo/
+
+browser:
+  name: chrome
+  headless: false
+  implicit_wait: 5
+  page_load_timeout: 30
